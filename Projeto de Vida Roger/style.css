@@ -1,0 +1,23 @@
+:root{
+    --cor-de-fundo: rgb(228, 230, 132);
+    --amarelo:rgb(228, 230, 132);
+    --azul: rgb(21, 155, 207);
+    --botao-ativa: rgb(13, 100, 134);
+    --botao-inativo: rgb(16, 79, 197);
+    --texto-fundo: rgb(85, 55, 124);
+}
+
+body{
+    background-color: rgb(219, 208, 106);
+}
+
+h2{
+    color: rgb(85, 55, 124);
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "MORF" 15,
+      "SHLN" 23.2;
+}
